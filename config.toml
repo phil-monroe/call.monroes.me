@@ -1,7 +1,8 @@
 baseURL = "https://call.monroes.me/"
 languageCode = "en-us"
 title = "Call the Monroes"
-disableKinds = ['sitemap', 'robotsTXT', 'rss']
+disableKinds = ['sitemap', 'robotsTXT', 'RSS']
+publishDir = "docs"
 
 [params]
     author = "Phil Monroe"
