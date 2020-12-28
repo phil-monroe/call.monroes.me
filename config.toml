@@ -1,0 +1,13 @@
+baseURL = "https://call.monroes.me/"
+languageCode = "en-us"
+title = "Call the Monroes"
+disableKinds = ['sitemap', 'robotsTXT', 'rss']
+
+[params]
+    author = "Phil Monroe"
+    description = "How to call the Monroes"
+    githubUsername = "#"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Montserrat"
